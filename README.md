@@ -1,5 +1,5 @@
 # ClassicSonicLauncher
-**WINDOWS ONLY, ALSO 64 BIT ONLI**
+**WINDOWS ONLY, ALSO 64 BIT ONLY**
 
 This is a launcher for the widescreen versions of the classic sonic games.
 This launcher includes support for Sonic 1, 2, 3 AIR, CD, and Mania.
