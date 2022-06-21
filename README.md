@@ -13,11 +13,11 @@ Sonic 1 decompilation goes into a folder titled Sonic 1
 
 Sonic 2 decompilation goes into a folder titled Sonic 2
 
-Sonic CD decompilation goes into a folder titled Sonic cd
+Sonic CD decompilation goes into a folder titled Sonic CD
 
 Sonic 3 AIR goes into a folder titled Sonic 3
 
-Sonic Mania goes into a folder titled Monic Mania
+Sonic Mania goes into a folder titled Sonic Mania
 
 # Build Instructions
 
