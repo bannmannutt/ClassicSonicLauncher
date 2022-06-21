@@ -17,7 +17,7 @@ Sonic CD decompilation goes into a folder titled Sonic cd
 
 Sonic 3 AIR goes into a folder titled Sonic 3
 
-Sonic mania goes into a folder titled Monic Mania
+Sonic Mania goes into a folder titled Monic Mania
 
 # Build Instructions
 
