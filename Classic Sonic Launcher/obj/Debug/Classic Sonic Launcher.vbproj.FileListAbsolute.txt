@@ -1,0 +1,12 @@
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\bin\Debug\Classic Sonic Launcher.exe.config
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\bin\Debug\Classic Sonic Launcher.exe
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\bin\Debug\Classic Sonic Launcher.pdb
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\bin\Debug\Classic Sonic Launcher.xml
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.vbproj.AssemblyReference.cache
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic_Sonic_Launcher.Form1.resources
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic_Sonic_Launcher.Resources.resources
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.vbproj.GenerateResource.cache
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.exe
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.xml
+C:\Users\David\source\repos\Classic Sonic Launcher\Classic Sonic Launcher\obj\Debug\Classic Sonic Launcher.pdb
